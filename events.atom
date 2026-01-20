@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>file:///home/jon/Documents/test-html/events.atom</id>
+    <title>IT Events</title>
+    <updated>2026-01-20T12:00:00Z</updated>
+    <author><name>IT Events Feed</name></author>
+    <link rel="self" href="file:///home/jon/Documents/test-html/events.atom"/>
+
+    <entry>
+        <id>tag:localhost,2026-01-20:/events/1</id>
+        <title>Cloud Native Conference 2026</title>
+        <link href="https://example.com/events/cloud-native-2026"/>
+        <updated>2026-01-20T12:00:00Z</updated>
+        <published>2026-02-15T09:00:00Z</published>
+        <summary>Two-day conference covering cloud-native architectures, Kubernetes, and observability.</summary>
+    </entry>
+
+    <entry>
+        <id>tag:localhost,2026-01-20:/events/2</id>
+        <title>Local DevOps Meetup</title>
+        <link href="https://example.com/events/devops-meetup-feb"/>
+        <updated>2026-01-18T08:30:00Z</updated>
+        <published>2026-02-10T18:30:00Z</published>
+        <summary>Casual evening meetup: CI/CD demos, lightning talks, and networking.</summary>
+    </entry>
+
+    <entry>
+        <id>tag:localhost,2026-01-20:/events/3</id>
+        <title>Security Automation Webinar</title>
+        <link href="https://example.com/events/sec-auto-webinar"/>
+        <updated>2026-01-15T10:00:00Z</updated>
+        <published>2026-03-01T16:00:00Z</published>
+        <summary>Webinar on automating vulnerability scanning and remediation in pipelines.</summary>
+    </entry>
+</feed>
