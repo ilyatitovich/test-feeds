@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>file:///home/jon/Documents/test-html/events.atom</id>
+    <id>https://ilyatitovich.github.io/events.atom</id>
     <title>IT Events</title>
     <updated>2026-01-20T12:00:00Z</updated>
     <author><name>IT Events Feed</name></author>
-    <link rel="self" href="file:///home/jon/Documents/test-html/events.atom"/>
+    <link rel="self" href="https://ilyatitovich.github.io/events.atom"/>
 
     <entry>
         <id>tag:localhost,2026-01-20:/events/1</id>
